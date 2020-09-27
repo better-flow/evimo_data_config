@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<KinematicModel VERSION="3.2">
+	<Parameters>
+		<Parameter NAME="dvs_rig_dvs_rig_011_x" VALUE="-136.37861633300781" PRIOR="-136.37861633300781" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_011_y" VALUE="-236.88265991210938" PRIOR="-236.88265991210938" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_011_z" VALUE="134.91395568847656" PRIOR="134.91395568847656" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_013_x" VALUE="-10.149091720581055" PRIOR="-10.149091720581055" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_013_y" VALUE="169.2901611328125" PRIOR="169.2901611328125" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_013_z" VALUE="74.050163269042969" PRIOR="74.050163269042969" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_014_x" VALUE="42.339607238769531" PRIOR="42.339607238769531" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_014_y" VALUE="128.64033508300781" PRIOR="128.64033508300781" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_014_z" VALUE="18.407049179077148" PRIOR="18.407049179077148" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_015_x" VALUE="19.660676956176758" PRIOR="19.660676956176758" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_015_y" VALUE="17.245834350585938" PRIOR="17.245834350585938" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_015_z" VALUE="-68.73760986328125" PRIOR="-68.73760986328125" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_016_x" VALUE="12.325528144836426" PRIOR="12.325528144836426" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_016_y" VALUE="-13.448493003845215" PRIOR="-13.448493003845215" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_016_z" VALUE="-69.232017517089844" PRIOR="-69.232017517089844" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_017_x" VALUE="53.66180419921875" PRIOR="53.66180419921875" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_017_y" VALUE="94.300743103027344" PRIOR="94.300743103027344" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_017_z" VALUE="-54.630153656005859" PRIOR="-54.630153656005859" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_0110_x" VALUE="153.53662109375" PRIOR="153.53662109375" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_0110_y" VALUE="80.073875427246094" PRIOR="80.073875427246094" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_0110_z" VALUE="-63.944831848144531" PRIOR="-63.944831848144531" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_0111_x" VALUE="107.91218566894531" PRIOR="107.91218566894531" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_0111_y" VALUE="-129.60415649414063" PRIOR="-129.60415649414063" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_0111_z" VALUE="-74.008506774902344" PRIOR="-74.008506774902344" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig14_x" VALUE="127.58673095703125" PRIOR="127.58673095703125" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig14_y" VALUE="-61.5274658203125" PRIOR="-61.5274658203125" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig14_z" VALUE="-83.745506286621094" PRIOR="-83.745506286621094" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_012_x" VALUE="-89.26416015625" PRIOR="-89.26416015625" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_012_y" VALUE="-189.05844116210938" PRIOR="-189.05844116210938" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_012_z" VALUE="63.27044677734375" PRIOR="63.27044677734375" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_0112_x" VALUE="44.938819885253906" PRIOR="44.938819885253906" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_0112_y" VALUE="-125.43170166015625" PRIOR="-125.43170166015625" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_0112_z" VALUE="-52.969070434570313" PRIOR="-52.969070434570313" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_019_x" VALUE="13.810401916503906" PRIOR="13.810401916503906" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_019_y" VALUE="-72.388687133789063" PRIOR="-72.388687133789063" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_019_z" VALUE="-59.373435974121094" PRIOR="-59.373435974121094" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_018_x" VALUE="93.708999633789063" PRIOR="93.708999633789063" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_018_y" VALUE="103.43721008300781" PRIOR="103.43721008300781" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig_018_z" VALUE="-40.869468688964844" PRIOR="-40.869468688964844" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig13_x" VALUE="-42.274124145507813" PRIOR="-42.274124145507813" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig13_y" VALUE="252.62351989746094" PRIOR="252.62351989746094" HIDDEN="true"/>
+		<Parameter NAME="dvs_rig_dvs_rig13_z" VALUE="159.20883178710938" PRIOR="159.20883178710938" HIDDEN="true"/>
+	</Parameters>
+	<Skeleton RGB="93 93 93">
+		<Segment NAME="dvs_rig" OPACITY="255" BOUNDS="-50 -50 -50 50 50 50" MASS="0" MASS-CENTRE="0 0 0" INERTIA="0 0 0" RGB="255 164 0" HIDDEN="false" DRAW-END-RATIO="1" DRAW-HEIGHT="0.5" DRAW-TWIST="0" DRAW-WIDTH="0.5" DRAW-STYLE="box" DRAW-SHADING="shaded-smooth">
+			<JointFree NAME="World_dvs_rig_01" PRE-ORIENTATION="0 0 0" PRE-POSITION="0 0 0" INVERSE-POST-ORIENTATION="0 0 0" INVERSE-POST-POSITION="0 0 0" MEAN="0 0 0 0 0 0" COVARIANCE="2.464900016784668 0 0 0 0 0 0 2.464900016784668 0 0 0 0 0 0 246.49000549316406 0 0 0 0 0 0 1000000 0 0 0 0 0 0 1000000 0 0 0 0 0 0 1000000" T="* * * * * *" SIGNS="+ + + + + +" RANGE-CENTRING-STATE="0 0 0 0 0 0" RANGE-MATRIX="29.60881233215332 0 0 0 0 0 0 29.60881233215332 0 0 0 0 0 0 29.60881233215332 0 0 0 0 0 0 100000000 0 0 0 0 0 0 100000000 0 0 0 0 0 0 100000000">
+				<JointTemplate MEAN="0 0 0 0 0 0" COVARIANCE="2.464900016784668 0 0 0 0 0 0 2.464900016784668 0 0 0 0 0 0 246.49000549316406 0 0 0 0 0 0 1000000 0 0 0 0 0 0 1000000 0 0 0 0 0 0 1000000" TPOSE-MEAN="0 0 0 0 0 0" TPOSE-COVARIANCE="0.10000000149011612 0 0 0 0 0 0 0.10000000149011612 0 0 0 0 0 0 0.10000000149011612 0 0 0 0 0 0 0.10000000149011612 0 0 0 0 0 0 0.10000000149011612 0 0 0 0 0 0 0.10000000149011612" PRE-ORIENTATION="0 0 0" PRE-POSITION="0 0 0" INVERSE-POST-ORIENTATION="0 0 0" INVERSE-POST-POSITION="0 0 0"/>
+			</JointFree>
+		</Segment>
+	</Skeleton>
+	<MarkerSet>
+		<Markers>
+			<Marker NAME="dvs_rig_011" RADIUS="12.5" RGB="255 164 0" STATUS="required" VIEW-ANGLE="0"/>
+			<Marker NAME="dvs_rig_012" RADIUS="12.5" RGB="255 164 0" STATUS="optional" VIEW-ANGLE="0"/>
+			<Marker NAME="dvs_rig_013" RADIUS="12.5" RGB="255 164 0" STATUS="optional" VIEW-ANGLE="0"/>
+			<Marker NAME="dvs_rig_014" RADIUS="12.5" RGB="255 164 0" STATUS="optional" VIEW-ANGLE="0"/>
+			<Marker NAME="dvs_rig_015" RADIUS="12.5" RGB="255 164 0" STATUS="optional" VIEW-ANGLE="0"/>
+			<Marker NAME="dvs_rig_016" RADIUS="12.5" RGB="255 164 0" STATUS="optional" VIEW-ANGLE="0"/>
+			<Marker NAME="dvs_rig_017" RADIUS="12.5" RGB="255 164 0" STATUS="optional" VIEW-ANGLE="0"/>
+			<Marker NAME="dvs_rig_018" RADIUS="12.5" RGB="255 164 0" STATUS="optional" VIEW-ANGLE="0"/>
+			<Marker NAME="dvs_rig_019" RADIUS="12.5" RGB="255 164 0" STATUS="optional" VIEW-ANGLE="0"/>
+			<Marker NAME="dvs_rig_0110" RADIUS="12.5" RGB="255 164 0" STATUS="optional" VIEW-ANGLE="0"/>
+			<Marker NAME="dvs_rig_0111" RADIUS="12.5" RGB="255 164 0" STATUS="optional" VIEW-ANGLE="0"/>
+			<Marker NAME="dvs_rig_0112" RADIUS="12.5" RGB="255 164 0" STATUS="optional" VIEW-ANGLE="0"/>
+			<Marker NAME="dvs_rig13" RADIUS="12.5" RGB="255 164 0" STATUS="optional" VIEW-ANGLE="0"/>
+			<Marker NAME="dvs_rig14" RADIUS="12.5" RGB="255 164 0" STATUS="optional" VIEW-ANGLE="0"/>
+		</Markers>
+		<Sticks>
+			<Stick MARKER1="dvs_rig_011" MARKER2="dvs_rig_012" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_011" MARKER2="dvs_rig_013" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_011" MARKER2="dvs_rig_014" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_011" MARKER2="dvs_rig_015" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_011" MARKER2="dvs_rig_016" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_011" MARKER2="dvs_rig_017" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_011" MARKER2="dvs_rig_018" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_011" MARKER2="dvs_rig_019" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_011" MARKER2="dvs_rig_0110" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_011" MARKER2="dvs_rig_0111" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_011" MARKER2="dvs_rig_0112" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_011" MARKER2="dvs_rig13" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_011" MARKER2="dvs_rig14" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_012" MARKER2="dvs_rig_013" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_012" MARKER2="dvs_rig_014" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_012" MARKER2="dvs_rig_015" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_012" MARKER2="dvs_rig_016" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_012" MARKER2="dvs_rig_017" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_012" MARKER2="dvs_rig_018" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_012" MARKER2="dvs_rig_019" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_012" MARKER2="dvs_rig_0110" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_012" MARKER2="dvs_rig_0111" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_012" MARKER2="dvs_rig_0112" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_012" MARKER2="dvs_rig13" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_012" MARKER2="dvs_rig14" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_013" MARKER2="dvs_rig_014" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_013" MARKER2="dvs_rig_015" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_013" MARKER2="dvs_rig_016" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_013" MARKER2="dvs_rig_017" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_013" MARKER2="dvs_rig_018" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_013" MARKER2="dvs_rig_019" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_013" MARKER2="dvs_rig_0110" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_013" MARKER2="dvs_rig_0111" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_013" MARKER2="dvs_rig_0112" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_013" MARKER2="dvs_rig13" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_013" MARKER2="dvs_rig14" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_014" MARKER2="dvs_rig_015" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_014" MARKER2="dvs_rig_016" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_014" MARKER2="dvs_rig_017" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_014" MARKER2="dvs_rig_018" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_014" MARKER2="dvs_rig_019" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_014" MARKER2="dvs_rig_0110" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_014" MARKER2="dvs_rig_0111" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_014" MARKER2="dvs_rig_0112" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_014" MARKER2="dvs_rig13" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_014" MARKER2="dvs_rig14" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_015" MARKER2="dvs_rig_016" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_015" MARKER2="dvs_rig_017" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_015" MARKER2="dvs_rig_018" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_015" MARKER2="dvs_rig_019" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_015" MARKER2="dvs_rig_0110" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_015" MARKER2="dvs_rig_0111" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_015" MARKER2="dvs_rig_0112" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_015" MARKER2="dvs_rig13" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_015" MARKER2="dvs_rig14" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_016" MARKER2="dvs_rig_017" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_016" MARKER2="dvs_rig_018" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_016" MARKER2="dvs_rig_019" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_016" MARKER2="dvs_rig_0110" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_016" MARKER2="dvs_rig_0111" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_016" MARKER2="dvs_rig_0112" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_016" MARKER2="dvs_rig13" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_016" MARKER2="dvs_rig14" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_017" MARKER2="dvs_rig_018" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_017" MARKER2="dvs_rig_019" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_017" MARKER2="dvs_rig_0110" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_017" MARKER2="dvs_rig_0111" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_017" MARKER2="dvs_rig_0112" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_017" MARKER2="dvs_rig13" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_017" MARKER2="dvs_rig14" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_018" MARKER2="dvs_rig_019" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_018" MARKER2="dvs_rig_0110" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_018" MARKER2="dvs_rig_0111" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_018" MARKER2="dvs_rig_0112" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_018" MARKER2="dvs_rig13" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_018" MARKER2="dvs_rig14" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_019" MARKER2="dvs_rig_0110" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_019" MARKER2="dvs_rig_0111" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_019" MARKER2="dvs_rig_0112" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_019" MARKER2="dvs_rig13" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_019" MARKER2="dvs_rig14" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_0110" MARKER2="dvs_rig_0111" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_0110" MARKER2="dvs_rig_0112" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_0110" MARKER2="dvs_rig13" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_0110" MARKER2="dvs_rig14" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_0111" MARKER2="dvs_rig_0112" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_0111" MARKER2="dvs_rig13" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_0111" MARKER2="dvs_rig14" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_0112" MARKER2="dvs_rig13" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig_0112" MARKER2="dvs_rig14" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="dvs_rig13" MARKER2="dvs_rig14" RGB1="255 164 0" RGB2="255 164 0"/>
+		</Sticks>
+	</MarkerSet>
+	<TargetSet>
+		<Targets>
+			<TargetLocalPointToWorldPoint COVARIANCE="1 0 0 0 1 0 0 0 1" FILL-GAPS="false" GAUSSIAN="true" HIDDEN="false" MARKER="dvs_rig_011" OPACITY="255" POSITION="'dvs_rig_dvs_rig_011_x' 'dvs_rig_dvs_rig_011_y' 'dvs_rig_dvs_rig_011_z'" RGB="93 93 93" SEGMENT="dvs_rig" WEIGHT="1" DRAW-STYLE="None">
+				<TargetLocalPointToWorldPointTemplate COVARIANCE="1 0 0 0 1 0 0 0 1"/>
+			</TargetLocalPointToWorldPoint>
+			<TargetLocalPointToWorldPoint COVARIANCE="1 0 0 0 1 0 0 0 1" FILL-GAPS="false" GAUSSIAN="true" HIDDEN="false" MARKER="dvs_rig_013" OPACITY="255" POSITION="'dvs_rig_dvs_rig_013_x' 'dvs_rig_dvs_rig_013_y' 'dvs_rig_dvs_rig_013_z'" RGB="93 93 93" SEGMENT="dvs_rig" WEIGHT="1" DRAW-STYLE="None">
+				<TargetLocalPointToWorldPointTemplate COVARIANCE="1 0 0 0 1 0 0 0 1"/>
+			</TargetLocalPointToWorldPoint>
+			<TargetLocalPointToWorldPoint COVARIANCE="1 0 0 0 1 0 0 0 1" FILL-GAPS="false" GAUSSIAN="true" HIDDEN="false" MARKER="dvs_rig_014" OPACITY="255" POSITION="'dvs_rig_dvs_rig_014_x' 'dvs_rig_dvs_rig_014_y' 'dvs_rig_dvs_rig_014_z'" RGB="93 93 93" SEGMENT="dvs_rig" WEIGHT="1" DRAW-STYLE="None">
+				<TargetLocalPointToWorldPointTemplate COVARIANCE="1 0 0 0 1 0 0 0 1"/>
+			</TargetLocalPointToWorldPoint>
+			<TargetLocalPointToWorldPoint COVARIANCE="1 0 0 0 1 0 0 0 1" FILL-GAPS="false" GAUSSIAN="true" HIDDEN="false" MARKER="dvs_rig_015" OPACITY="255" POSITION="'dvs_rig_dvs_rig_015_x' 'dvs_rig_dvs_rig_015_y' 'dvs_rig_dvs_rig_015_z'" RGB="93 93 93" SEGMENT="dvs_rig" WEIGHT="1" DRAW-STYLE="None">
+				<TargetLocalPointToWorldPointTemplate COVARIANCE="1 0 0 0 1 0 0 0 1"/>
+			</TargetLocalPointToWorldPoint>
+			<TargetLocalPointToWorldPoint COVARIANCE="1 0 0 0 1 0 0 0 1" FILL-GAPS="false" GAUSSIAN="true" HIDDEN="false" MARKER="dvs_rig_016" OPACITY="255" POSITION="'dvs_rig_dvs_rig_016_x' 'dvs_rig_dvs_rig_016_y' 'dvs_rig_dvs_rig_016_z'" RGB="93 93 93" SEGMENT="dvs_rig" WEIGHT="1" DRAW-STYLE="None">
+				<TargetLocalPointToWorldPointTemplate COVARIANCE="1 0 0 0 1 0 0 0 1"/>
+			</TargetLocalPointToWorldPoint>
+			<TargetLocalPointToWorldPoint COVARIANCE="1 0 0 0 1 0 0 0 1" FILL-GAPS="false" GAUSSIAN="true" HIDDEN="false" MARKER="dvs_rig_017" OPACITY="255" POSITION="'dvs_rig_dvs_rig_017_x' 'dvs_rig_dvs_rig_017_y' 'dvs_rig_dvs_rig_017_z'" RGB="93 93 93" SEGMENT="dvs_rig" WEIGHT="1" DRAW-STYLE="None">
+				<TargetLocalPointToWorldPointTemplate COVARIANCE="1 0 0 0 1 0 0 0 1"/>
+			</TargetLocalPointToWorldPoint>
+			<TargetLocalPointToWorldPoint COVARIANCE="1 0 0 0 1 0 0 0 1" FILL-GAPS="false" GAUSSIAN="true" HIDDEN="false" MARKER="dvs_rig_0110" OPACITY="255" POSITION="'dvs_rig_dvs_rig_0110_x' 'dvs_rig_dvs_rig_0110_y' 'dvs_rig_dvs_rig_0110_z'" RGB="93 93 93" SEGMENT="dvs_rig" WEIGHT="1" DRAW-STYLE="None">
+				<TargetLocalPointToWorldPointTemplate COVARIANCE="1 0 0 0 1 0 0 0 1"/>
+			</TargetLocalPointToWorldPoint>
+			<TargetLocalPointToWorldPoint COVARIANCE="1 0 0 0 1 0 0 0 1" FILL-GAPS="false" GAUSSIAN="true" HIDDEN="false" MARKER="dvs_rig_0111" OPACITY="255" POSITION="'dvs_rig_dvs_rig_0111_x' 'dvs_rig_dvs_rig_0111_y' 'dvs_rig_dvs_rig_0111_z'" RGB="93 93 93" SEGMENT="dvs_rig" WEIGHT="1" DRAW-STYLE="None">
+				<TargetLocalPointToWorldPointTemplate COVARIANCE="1 0 0 0 1 0 0 0 1"/>
+			</TargetLocalPointToWorldPoint>
+			<TargetLocalPointToWorldPoint COVARIANCE="1 0 0 0 1 0 0 0 1" FILL-GAPS="false" GAUSSIAN="true" HIDDEN="false" MARKER="dvs_rig14" OPACITY="255" POSITION="'dvs_rig_dvs_rig14_x' 'dvs_rig_dvs_rig14_y' 'dvs_rig_dvs_rig14_z'" RGB="93 93 93" SEGMENT="dvs_rig" WEIGHT="1" DRAW-STYLE="None">
+				<TargetLocalPointToWorldPointTemplate COVARIANCE="1 0 0 0 1 0 0 0 1"/>
+			</TargetLocalPointToWorldPoint>
+			<TargetLocalPointToWorldPoint COVARIANCE="1 0 0 0 1 0 0 0 1" FILL-GAPS="false" GAUSSIAN="true" HIDDEN="false" MARKER="dvs_rig_012" OPACITY="255" POSITION="'dvs_rig_dvs_rig_012_x' 'dvs_rig_dvs_rig_012_y' 'dvs_rig_dvs_rig_012_z'" RGB="93 93 93" SEGMENT="dvs_rig" WEIGHT="1" DRAW-STYLE="None">
+				<TargetLocalPointToWorldPointTemplate COVARIANCE="1 0 0 0 1 0 0 0 1"/>
+			</TargetLocalPointToWorldPoint>
+			<TargetLocalPointToWorldPoint COVARIANCE="1 0 0 0 1 0 0 0 1" FILL-GAPS="false" GAUSSIAN="true" HIDDEN="false" MARKER="dvs_rig_0112" OPACITY="255" POSITION="'dvs_rig_dvs_rig_0112_x' 'dvs_rig_dvs_rig_0112_y' 'dvs_rig_dvs_rig_0112_z'" RGB="93 93 93" SEGMENT="dvs_rig" WEIGHT="1" DRAW-STYLE="None">
+				<TargetLocalPointToWorldPointTemplate COVARIANCE="1 0 0 0 1 0 0 0 1"/>
+			</TargetLocalPointToWorldPoint>
+			<TargetLocalPointToWorldPoint COVARIANCE="1 0 0 0 1 0 0 0 1" FILL-GAPS="false" GAUSSIAN="true" HIDDEN="false" MARKER="dvs_rig_019" OPACITY="255" POSITION="'dvs_rig_dvs_rig_019_x' 'dvs_rig_dvs_rig_019_y' 'dvs_rig_dvs_rig_019_z'" RGB="93 93 93" SEGMENT="dvs_rig" WEIGHT="1" DRAW-STYLE="None">
+				<TargetLocalPointToWorldPointTemplate COVARIANCE="1 0 0 0 1 0 0 0 1"/>
+			</TargetLocalPointToWorldPoint>
+			<TargetLocalPointToWorldPoint COVARIANCE="1 0 0 0 1 0 0 0 1" FILL-GAPS="false" GAUSSIAN="true" HIDDEN="false" MARKER="dvs_rig_018" OPACITY="255" POSITION="'dvs_rig_dvs_rig_018_x' 'dvs_rig_dvs_rig_018_y' 'dvs_rig_dvs_rig_018_z'" RGB="93 93 93" SEGMENT="dvs_rig" WEIGHT="1" DRAW-STYLE="None">
+				<TargetLocalPointToWorldPointTemplate COVARIANCE="1 0 0 0 1 0 0 0 1"/>
+			</TargetLocalPointToWorldPoint>
+			<TargetLocalPointToWorldPoint COVARIANCE="1 0 0 0 1 0 0 0 1" FILL-GAPS="false" GAUSSIAN="true" HIDDEN="false" MARKER="dvs_rig13" OPACITY="255" POSITION="'dvs_rig_dvs_rig13_x' 'dvs_rig_dvs_rig13_y' 'dvs_rig_dvs_rig13_z'" RGB="93 93 93" SEGMENT="dvs_rig" WEIGHT="1" DRAW-STYLE="None">
+				<TargetLocalPointToWorldPointTemplate COVARIANCE="1 0 0 0 1 0 0 0 1"/>
+			</TargetLocalPointToWorldPoint>
+		</Targets>
+	</TargetSet>
+</KinematicModel>
+
