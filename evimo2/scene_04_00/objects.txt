@@ -22,4 +22,4 @@ objects/toy_00
 objects/wheel_00
 objects/wheel_01
 objects/wheel_02
-objects/wheel_03
+#objects/wheel_03
