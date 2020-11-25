@@ -1,0 +1,6 @@
+wand_00_depth_00.bag
+wand_00_depth_01.bag
+wand_00_depth_02.bag
+wand_01_depth_00.bag
+wand_01_depth_01.bag
+wand_01_depth_02.bag
