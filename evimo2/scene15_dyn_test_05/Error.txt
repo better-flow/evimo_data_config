@@ -1,0 +1,234 @@
+[92mRead camera parameters: 
+[0m	res:	640 x 480
+	distortion model:	radtan
+	ros image topic:	
+	ros event topic:	/prophesee/right/cd_events_buffer
+	ros camera pose topic:	/vicon/dvs_rig
+[92mRead camera calibration: (fx fy cx cy {k1 k2 k3 k4} {p1 p2}): [0m554.585 554.21 327.556 202.321 -0.0948414 0.187073 0 0 0.00174689 -0.00103763
+Initializing car_01; id = 6
+All coordinates are assumed to be in [93mmm[0m
+Reading as .ply...
+Read 112116 points
+car_01 initialized with 7 markers:
+ ID	|		coordinate
+ 0	|	0.0517353	-0.000298937	-0.0178917
+ 1	|	0.000452066	0.0363901	-0.0497651
+ 2	|	-0.0393005	-0.0461233	0.017232
+ 3	|	0.0093762	-0.0627748	0.0710866
+ 4	|	0.0185147	-0.00170242	-0.0707867
+ 5	|	-0.0515277	-0.0390516	-0.0442953
+ 6	|	0.0747508	-0.0554022	0.0105912
+=====================================
+
+Initializing checkerboard; id = 9
+All coordinates are assumed to be in [93mmm[0m
+Reading as .ply...
+Read 151502 points
+checkerboard initialized with 3 markers:
+ ID	|		coordinate
+ 0	|	0.0178101	0.0993176	0.0100449
+ 1	|	-0.431411	-0.317999	-0.039653
+ 2	|	0.302105	-0.466091	0.105825
+=====================================
+
+Initializing turntable; id = 24
+All coordinates are assumed to be in [93mmm[0m
+Reading as .ply...
+Read 150149 points
+turntable initialized with 4 markers:
+ ID	|		coordinate
+ 0	|	0.124364	0.0581664	-0.0251539
+ 1	|	0.0460406	0.020046	0.0150285
+ 2	|	-0.0691852	0.055203	0.0110336
+ 3	|	-0.0497377	-0.0981566	0.0726747
+=====================================
+
+Initializing tabletop; id = 22
+All coordinates are assumed to be in [93mmm[0m
+Reading as .ply...
+Read 162532 points
+tabletop initialized with 7 markers:
+ ID	|		coordinate
+ 0	|	0.685339	0.355573	0.0803028
+ 1	|	0.196446	0.300971	0.177159
+ 2	|	-0.293899	0.23962	0.278473
+ 3	|	-0.844385	0.138442	0.37623
+ 4	|	0.800793	-0.170798	-0.367093
+ 5	|	-0.151019	-0.31363	-0.193047
+ 6	|	-0.868332	-0.415642	-0.0408628
+=====================================
+
+Initializing can_00; id = 11
+All coordinates are assumed to be in [93mmm[0m
+Reading as .ply...
+Read 58096 points
+can_00 initialized with 3 markers:
+ ID	|		coordinate
+ 0	|	0.0395976	-0.191008	0.105444
+ 1	|	-0.0236766	-0.266902	0.0791509
+ 2	|	-0.0436375	-0.215273	0.0297144
+=====================================
+
+Initializing drone_00; id = 14
+All coordinates are assumed to be in [93mmm[0m
+Reading as .ply...
+Read 58793 points
+drone_00 initialized with 3 markers:
+ ID	|		coordinate
+ 0	|	0.000437856	-0.00542273	-0.0129198
+ 1	|	-0.00961266	-0.00785008	0.0175072
+ 2	|	-0.00998269	0.0188323	0.0058198
+=====================================
+
+Initializing drone_01; id = 15
+All coordinates are assumed to be in [93mmm[0m
+Reading as .ply...
+Read 117883 points
+drone_01 initialized with 4 markers:
+ ID	|		coordinate
+ 0	|	0.00318557	0.0214264	0.000639313
+ 1	|	-0.0289058	0.013067	0.00497751
+ 2	|	-0.00495366	-0.0200943	0.0202043
+ 3	|	0.0298787	0.00233654	0.00750047
+=====================================
+
+Initializing toy_00; id = 23
+All coordinates are assumed to be in [93mmm[0m
+Reading as .ply...
+Read 150002 points
+toy_00 initialized with 3 markers:
+ ID	|		coordinate
+ 0	|	0.0157866	-0.0106652	0.0024729
+ 1	|	-0.0100345	-0.00839258	0.0197624
+ 2	|	-0.0678191	-0.0425177	0.0260357
+=====================================
+
+Initializing wheel_03; id = 28
+All coordinates are assumed to be in [93mmm[0m
+Reading as .ply...
+Read 150072 points
+wheel_03 initialized with 4 markers:
+ ID	|		coordinate
+ 0	|	0.0143484	-0.0235741	0.0120578
+ 1	|	0.0167519	-0.00108624	0.00355432
+ 2	|	0.0238301	0.0158497	-0.00890058
+ 3	|	0.0192277	0.0177605	0.0172301
+=====================================
+
+[94mProcesing bag file: [0m/home/suteerth/evimo_data_config/evimo2/scene15_dyn_test_05/scene15_dyn_test_05.bag
+
+Topics available:
+	/prophesee/right/imu
+	/prophesee/left/imu
+	/vicon/Wand
+	/vicon/wheel_00
+	/vicon/wheel_01
+	/vicon/wheel_02
+	/prophesee/left/cd_events_buffer
+	/vicon/wheel_03
+	/samsung/camera/events
+	/vicon/tabletop
+	/vicon/car_01
+	/vicon/can_00
+	/vicon/turntable
+	/vicon/toy_00
+	/vicon/drone_01
+	/vicon/box_01
+	/vicon/dvs_rig
+	/vicon/drone_00
+	/vicon/checkerboard
+	/prophesee/right/cd_events_buffer
+	/flea3/image_color/compressed
+[91mNo images found! Reverting 'with_images' to 'false'[0m
+	Camera trajectory is... [92msorted[0m
+	6 trajectory is... [92msorted[0m
+	9 trajectory is... [92msorted[0m
+	11 trajectory is... [92msorted[0m
+	14 trajectory is... [92msorted[0m
+	15 trajectory is... [92msorted[0m
+	22 trajectory is... [92msorted[0m
+	23 trajectory is... [92msorted[0m
+	24 trajectory is... [92msorted[0m
+	28 trajectory is... [92msorted[0m
+[92mRead [0m7413160[92m events[0m
+
+[92mRead [0m1000[92m camera poses and [0m
+	1001[94m poses for object [0m6
+	1001[94m poses for object [0m9
+	1001[94m poses for object [0m11
+	1001[94m poses for object [0m14
+	987[94m poses for object [0m15
+	1001[94m poses for object [0m22
+	1001[94m poses for object [0m23
+	1001[94m poses for object [0m24
+	2[94m poses for object [0m28
+Event timestamp range (nsec):	(1606267989718176000 - 1606267994721200128)
+Camera tj timestamp range:	(1606267989.760163915 - 1606267994.755173099)
+6 tj timestamp range:	(1606267989.760163915 - 1606267994.760171067)
+9 tj timestamp range:	(1606267989.760163915 - 1606267994.760171067)
+11 tj timestamp range:	(1606267989.760163915 - 1606267994.760171067)
+14 tj timestamp range:	(1606267989.760163915 - 1606267994.760171067)
+15 tj timestamp range:	(1606267989.760163915 - 1606267994.760171067)
+22 tj timestamp range:	(1606267989.760163915 - 1606267994.760171067)
+23 tj timestamp range:	(1606267989.760163915 - 1606267994.760171067)
+24 tj timestamp range:	(1606267989.760163915 - 1606267994.760171067)
+28 tj timestamp range:	(1606267991.320138108 - 1606267991.325113904)
+
+Removing time offset: [92m1606267989.718176[0m
+
+Event timestamp range:	(0 - 5.00302)
+Camera tj timestamp range:	(0.041987915 - 5.036997099)
+6 tj timestamp range:	(0.041987915 - 5.041995067)	topic:	/vicon/car_01
+9 tj timestamp range:	(0.041987915 - 5.041995067)	topic:	/vicon/checkerboard
+11 tj timestamp range:	(0.041987915 - 5.041995067)	topic:	/vicon/can_00
+14 tj timestamp range:	(0.041987915 - 5.041995067)	topic:	/vicon/drone_00
+15 tj timestamp range:	(0.041987915 - 5.041995067)	topic:	/vicon/drone_01
+22 tj timestamp range:	(0.041987915 - 5.041995067)	topic:	/vicon/tabletop
+23 tj timestamp range:	(0.041987915 - 5.041995067)	topic:	/vicon/toy_00
+24 tj timestamp range:	(0.041987915 - 5.041995067)	topic:	/vicon/turntable
+28 tj timestamp range:	(1.601962108 - 1.606937904)	topic:	/vicon/wheel_03[93m	<-- more than 50% occluded![0m
+Actual start timestamp: 1.60296
+[91mTrajectory timestamp misalignment: [0m0.00498509 / 0.00498509 skipping...
+[94m
+Timestamp alignment done[0m
+	Dataset contains 0 frames
+... logging to /home/suteerth/.ros/log/fd91211e-3e24-11eb-bd4c-0242ac110002/roslaunch-ccc2bf9c9478-2413.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;/home/suteerth/catkin_ws/src/evimo/evimo/launch/event_imo_offline.launch
+[1mstarted roslaunch server http://ccc2bf9c9478:32785/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /evimo_vis_offline/camera_name: right_camera
+ * /evimo_vis_offline/folder: /home/suteerth/ev...
+ * /evimo_vis_offline/fps: 40
+ * /evimo_vis_offline/generate: False
+ * /evimo_vis_offline/save_3d: False
+ * /evimo_vis_offline/sequence_duration: -1
+ * /evimo_vis_offline/show: -2
+ * /evimo_vis_offline/start_time_offset: 0.0
+ * /rosdistro: noetic
+ * /rosversion: 1.15.8
+
+NODES
+  /
+    evimo_vis_offline (evimo/datagen_offline)
+
+auto-starting new master
+[1mprocess[master]: started with pid [2421][0m
+[1mROS_MASTER_URI=http://localhost:11311[0m
+]2;/home/suteerth/catkin_ws/src/evimo/evimo/launch/event_imo_offline.launch http://localhost:11311
+[1msetting /run_id to fd91211e-3e24-11eb-bd4c-0242ac110002[0m
+[1mprocess[rosout-1]: started with pid [2431][0m
+started core service [/rosout]
+[1mprocess[evimo_vis_offline-2]: started with pid [2438][0m
+[evimo_vis_offline-2] killing on exit
+[rosout-1] killing on exit
+[master] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m
