@@ -2,22 +2,6 @@
 
 DATA_ROOT=/home/ncos/ooo/EVIMO2/evimo_data_config/evimo2/
 
-#./generate.sh $DATA_ROOT/checkerboard_flat_lr
-#./generate.sh $DATA_ROOT/simple_depth_var_lr
-#./generate.sh $DATA_ROOT/simple_ego_0
-#./generate.sh $DATA_ROOT/simple_ego_1
-#./generate.sh $DATA_ROOT/sliding_00
-#./generate.sh $DATA_ROOT/sliding_01
-#./generate.sh $DATA_ROOT/sliding_03
-#./generate.sh $DATA_ROOT/sliding_2_00
-#./generate.sh $DATA_ROOT/tabletop_flat_rot_z
-#./generate.sh $DATA_ROOT/sliding_car_00
-#./generate.sh $DATA_ROOT/static_objects_00
-#./generate.sh $DATA_ROOT/static_objects_01
-#./generate.sh $DATA_ROOT/static_objects_02
-#./generate.sh $DATA_ROOT/static_objects_03
-#./generate.sh $DATA_ROOT/falling_objects_00
-#./generate.sh $DATA_ROOT/dynamic_00
 
 folders=(
 checkerboard/checkerboard_d_flat_fb
@@ -66,6 +50,13 @@ scene14_dyn_test_02
 scene14_dyn_test_03
 scene14_dyn_test_04
 scene14_dyn_test_05
+scene15_dyn_test_00
+scene15_dyn_test_01
+scene15_dyn_test_02
+scene15_dyn_test_03
+scene15_dyn_test_04
+scene15_dyn_test_05
+scene15_dyn_test_06
 scene16_d_dyn_test_00
 scene16_d_dyn_test_01
 scene16_d_dyn_test_02
