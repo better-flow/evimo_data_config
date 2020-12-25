@@ -8,7 +8,7 @@ objects/car_00
 #objects/checkerboard
 #objects/turntable
 objects/tabletop
-#objects/marker_00
+objects/marker_00
 objects/marker_01
 objects/marker_02
 objects/marker_03

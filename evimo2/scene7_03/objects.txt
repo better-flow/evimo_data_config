@@ -1,5 +1,5 @@
 #objects/wand
-#objects/box_00
+objects/box_00
 #objects/box_01
 objects/box_02
 objects/box_03
