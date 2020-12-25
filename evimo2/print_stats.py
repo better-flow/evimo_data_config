@@ -26,7 +26,10 @@ def get_dataset_folders(folder):
 
 
 dataset_folders = get_dataset_folders('.')
+for df in sorted(dataset_folders):
+    print (df)
 
+print()
 df_no_bagfiles = []
 df_to_regenerate = []
 df_partial_regenerate = {}
