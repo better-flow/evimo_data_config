@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # pick a camera:
-CAMERA=right_camera
+# CAMERA=right_camera
 # CAMERA=left_camera
 # CAMERA=samsung_mono
-# CAMERA=flea3_7
+CAMERA=flea3_7
 
 # skip this many seconds from the beginning of the sequence:
 OFFSET=0.0
