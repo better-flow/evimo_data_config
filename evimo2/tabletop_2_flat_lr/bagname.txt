@@ -1,1 +1,1 @@
-tabletop_2_flat_lr.bag
+tabletop_flat_lr.bag

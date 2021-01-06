@@ -1,1 +1,1 @@
-tabletop_2_flat_fb.bag
+tabletop_flat_fb.bag
