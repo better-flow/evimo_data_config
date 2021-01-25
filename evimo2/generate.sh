@@ -1,6 +1,16 @@
 #!/bin/bash
 
-PYDVS_DIR=~/pydvs
+
+# Run: bash generate.sh <dataset_folder>
+
+# INSTALL:
+# 1) https://github.com/better-flow/evimo/wiki/Evimo-Pipeline-Setup
+# 2) install https://github.com/better-flow/pydvs
+# 3) Wiki: https://github.com/better-flow/evimo/wiki/Dataset-Configuration-Folder and https://github.com/better-flow/evimo/wiki/Ground-Truth-Format
+
+
+PYDVS_DIR=~/pydvs # see https://github.com/better-flow/pydvs
+
 
 
 echo "Folder: $1"
@@ -18,13 +28,13 @@ for cam in ${CameraArray[@]}; do
     roslaunch evimo event_imo_offline.launch show:=-1 folder:=$1 camera_name:=$cam \
                                              generate:=true \
                                              save_3d:=false \
-                                             fps:=40 \
+                                             fps:=60 \
                                              t_offset:=0 \
                                              t_len:=-1
 
     python3 $PYDVS_DIR/samples/evimo-gen.py --base_dir $1/$cam/ground_truth
 
-    ffmpeg -r 40 -i $VIS_FOLDER/frame_%10d.png -c:v libx264 -vf \
+    ffmpeg -r 60 -i $VIS_FOLDER/frame_%10d.png -c:v libx264 -vf \
         "pad=ceil(iw/2)*2:ceil(ih/2)*2" -pix_fmt yuv420p \
         $VIDEO_DST
 done
